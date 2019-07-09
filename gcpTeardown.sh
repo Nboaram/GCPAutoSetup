@@ -1,0 +1,1 @@
+gcloud projects delete ExampleProject
